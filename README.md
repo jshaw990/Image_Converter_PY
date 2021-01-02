@@ -1,9 +1,12 @@
 # Python Image Converter
 A simple Python 3 script to convert JPGs to PNGs. 
 
+## Author
+[Jayden Shaw](https://github.com/jshaw990/)
+
 ## Installation
-1. Fork/Clone GitHub Repository
-2. Install Pillow from PIP `python3 -m pip install --upgrade Pillow`
+1. Fork/Clone [GitHub Repository](https://github.com/jshaw990/Image_Converter_PY)
+2. Install [Pillow](https://pypi.org/project/Pillow/) from PIP `python3 -m pip install --upgrade Pillow`
 
 ## Usage
 1. Complete Installation
