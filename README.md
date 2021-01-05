@@ -11,7 +11,7 @@ A simple Python 3 script to convert JPGs to PNGs.
 ## Usage
 1. Complete Installation
 2. Navigate to the project directory
-2. Place JPG files within the *Assets* folder
-3. Run `python3 JPGtoPNG.py Assets Output`
-4. Locate your newly converted PNGs in the *Output* folder
-4. Enjoy your images
+3. Place JPG files within the *Assets* folder
+4. Run `python3 JPGtoPNG.py Assets Output`
+5. Locate your newly converted PNGs in the *Output* folder
+6. Enjoy your images
